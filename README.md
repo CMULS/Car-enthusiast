@@ -47,8 +47,7 @@
     max-width: 10%;
     display: inline-block;
     border-radius: 50%;
-    
-  }
+    }
   #text {
     text-align: center;
   }
@@ -67,7 +66,7 @@
     <nav id="nav-bar"></nav>
     </head>
     <h1 id="title">Mercedes Benz G-Wagon</h1>
-    <p id="name">Chibesa D Mulenga <img id="img" src="Img/IMG_20210418_193526 (2).jpg" alt="Circular Image" class="circular-image"/></p>
+    <p id="name">Chibesa D Mulenga    20 December 2023<img id="img" src="Img/IMG_20210418_193526 (2).jpg" alt="Circular Image" class="circular-image"/></p>
     <div id="img-div">
         <img id= "image" src="https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg" alt="Mercedes G-Wagon">
         <div id="img-caption">The Mercedes G-Wagon. Known for its class and off-road capabilities</figcaption>
