@@ -24,7 +24,7 @@
     img-align: center;
   }   
   #img { 
-    max-width: 20%;
+    max-width: 50%;
     display: inline-block;
     border-radius: 50%;
   } 
@@ -44,7 +44,7 @@
     font-style: italic;
   }
   #bio {
-    max-width: 30%;
+    max-width: 60%;
     display: inline-block;
     border-radius: 50%;
     
