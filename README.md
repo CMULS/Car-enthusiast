@@ -6,7 +6,7 @@
   max-width: 800px;
   margin: 0 auto;
   text-align: center;
-  } 
+  }
   #title {
   background-color: white;
   margin-top: 50px;
