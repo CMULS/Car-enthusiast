@@ -77,7 +77,7 @@
   <main id="main">
   <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>MercedesBenzG-Wagon</title>
     <nav id="nav-bar"></nav>
     </head>
